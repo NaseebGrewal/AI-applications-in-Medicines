@@ -28,6 +28,7 @@ By utilizing AI, this project aims to bridge the gap between technological advan
 
 ## Project Structure
 
+"yet to be updated in main branch"
 ```plaintext
 AI-applications-in-Medicines/
 │
