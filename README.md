@@ -1,6 +1,6 @@
 Here's a well-structured and editable `README.md` format for your GitHub project **"AI-applications-in-Medicines"**. It covers all the essential sections that will help others understand, use, and contribute to your project.
 
-```markdown
+
 # AI Applications in Medicine
 
 This project explores the applications of Artificial Intelligence (AI) in the field of Medicine. It provides insights, tools, and implementations of various AI techniques, machine learning algorithms, and deep learning models that can be utilized in medical research, healthcare applications, and treatment advancements.
